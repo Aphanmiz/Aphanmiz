@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Aphanmiz
-- 👀 I’m interested in NeuroTech
-- 🌱 I’m currently learning a LOT about our brain and ways to understand / augment it.
-- 💞️ I’m looking to collaborate on BCI or other neuro related projects.
+- 👀 Aspiring Data Scientist / Software Engineer seeking a challenging role to leverage my expertise in full-stack development, machine learning, and cloud computing to drive impactful solutions.
 - 📫 How to reach me: shoot me an email jianruan18@gmail.com :)
 
 <!---
