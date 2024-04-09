@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aphanmiz
 - 👀 Aspiring Data Scientist / Software Engineer seeking a challenging role to leverage my expertise in full-stack development, machine learning, and cloud computing to drive impactful solutions.
-- 📫 How to reach me: shoot me an email jianruan18@gmail.com :)
 
 <!---
 Aphanmiz/Aphanmiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
